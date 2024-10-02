@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658405337856",
+    "project_id": "quizzer-48ccd",
+    "storage_bucket": "quizzer-48ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658405337856:android:c1c31d877f0dde9a20e1e5",
+        "android_client_info": {
+          "package_name": "com.example.quizdmce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIBAiWao4QiG8-FVFDCwd1-cx72P1Jvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
